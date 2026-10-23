@@ -1,4 +1,4 @@
 #!/bin/bash
 
-module load anaconda/2023
+module load miniconda
 conda activate workflow_env

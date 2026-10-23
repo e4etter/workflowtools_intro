@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # load anaconda from software stack
-module load anaconda/2023
+module load miniconda
 module list
 
 # create environment that contains snakemake and its dependencies
